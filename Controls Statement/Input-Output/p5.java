@@ -19,16 +19,17 @@ class Demo{
 }
 }
 
-O/p--
+/*O/p--
 enter number
 10
 enter name
-Divyaa
+Shiva
 enter float
 02
 enter double
 28
 number is:10
-name is:Divyaa
+name is:Shiva
 float is:2.0
 double is:28
+*/
