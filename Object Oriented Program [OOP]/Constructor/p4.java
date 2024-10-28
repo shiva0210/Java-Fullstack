@@ -8,4 +8,4 @@ class Codex{
 
     }
 	
-// if constructor is already presentin the class then compiler doesnot add any another constructor.
+// if constructor is already present in the class then compiler doesnot add any another constructor.
