@@ -14,10 +14,5 @@ class Demo{
 
 }
  }
- /*maha lang and flag
-tri colour
-Marathi + hindi
-goa lang and flag
-tri colour
-english
-*/
+/*maha lang and flag
+20*/

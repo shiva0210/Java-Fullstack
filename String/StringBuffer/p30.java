@@ -9,5 +9,3 @@ class Demo{
 	}
  }
 
-
-//incompatible types: StringBuffer cannot be converted to String

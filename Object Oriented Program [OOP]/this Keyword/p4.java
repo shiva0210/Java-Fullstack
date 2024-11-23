@@ -12,3 +12,4 @@ class Demo{
 	System.out.println(obj.a);
 }
 	}
+	//10,10

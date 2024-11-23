@@ -16,3 +16,6 @@ class Demo{
 	obj.education();
 }
  }
+/*Sanskar
+engineering
+*/

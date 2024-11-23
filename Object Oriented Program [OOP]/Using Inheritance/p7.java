@@ -16,4 +16,4 @@ class Demo{
 
 }
  }
- 
+  //maha lang and flag,10,20

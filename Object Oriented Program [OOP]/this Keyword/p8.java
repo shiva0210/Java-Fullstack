@@ -1,6 +1,6 @@
 class Codex{
 	int age;
-	void fun(int a){
+	void fun(int age){
 	this.age =age;
 }
 	void display(){
@@ -14,3 +14,5 @@ class Demo{
 	obj.display();
 }
 	}
+	
+	//20

@@ -5,7 +5,7 @@ class Codex{
 	this.fun();
 	}
 	void fun(){
-	System.out.println("in fun" +a);
+	System.out.println("in fun " +a);
 }
 }
 
@@ -15,3 +15,5 @@ class Demo{
 
 }
 	}
+	
+	//in fun 10

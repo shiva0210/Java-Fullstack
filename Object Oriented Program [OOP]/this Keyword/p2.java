@@ -11,3 +11,4 @@ class Demo{
 }
 	}	
 
+//address of own class codex:Codex@2f92e0f4

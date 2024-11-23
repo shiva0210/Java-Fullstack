@@ -15,4 +15,4 @@ class Demo{
 	obj.education();
 }
  }
- //sanskar , engineering
+ // error: cannot find symbol
